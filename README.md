@@ -1,2 +1,2 @@
 # MazeRunner
-CS 520 Assignment 1
+CS 520 Project 1
